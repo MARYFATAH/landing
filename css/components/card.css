@@ -1,0 +1,16 @@
+.card>img{
+  width: 200px;
+  height: 200px;
+}
+ .card{
+  width: 200px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+ }
+ 
